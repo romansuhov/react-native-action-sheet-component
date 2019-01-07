@@ -99,10 +99,11 @@ function ActionSheetItem({
     >
       <View style={[styles.container, style]}>
         <View style={styles.itemContent}>
-          {itemIcon}
+     
           <Text style={[styles.text, textStyle]}>
             {text}
           </Text>
+        {itemIcon}
         </View>
         <View style={styles.itemContent}>
           {iconOnSelected}
