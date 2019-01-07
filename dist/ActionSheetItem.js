@@ -98,10 +98,11 @@ onPress(value,index);
 underlayColor:'#EDEDED',__source:{fileName:_jsxFileName,lineNumber:94}},
 
 _react2.default.createElement(_reactNative.View,{style:[styles.container,style],__source:{fileName:_jsxFileName,lineNumber:100}},
-_react2.default.createElement(_reactNative.View,{style:styles.itemContent,__source:{fileName:_jsxFileName,lineNumber:101}},
-itemIcon,
+
 _react2.default.createElement(_reactNative.Text,{style:[styles.text,textStyle],__source:{fileName:_jsxFileName,lineNumber:103}},
 text)),
+_react2.default.createElement(_reactNative.View,{style:styles.itemContent,__source:{fileName:_jsxFileName,lineNumber:101}},
+itemIcon,
 
 
 _react2.default.createElement(_reactNative.View,{style:styles.itemContent,__source:{fileName:_jsxFileName,lineNumber:107}},
